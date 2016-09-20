@@ -5,7 +5,15 @@
     
     <entry>
       <title><![CDATA[本博客相关内容链接]]></title>
-      <url>http://yoursite.com/2016/09/09/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/</url>
+      <url>http://yoursite.com/2016/09/20/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/</url>
+      <content type="html"><![CDATA[<h4 id="Hexo官网"><a href="#Hexo官网" class="headerlink" title="Hexo官网:"></a>Hexo官网:</h4><p><a href="https://hexo.io/" target="_blank" rel="external">https://hexo.io/</a></p>
+<h4 id="Next主题"><a href="#Next主题" class="headerlink" title="Next主题:"></a>Next主题:</h4><p><a href="http://theme-next.iissnan.com/" target="_blank" rel="external">http://theme-next.iissnan.com/</a></p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[本博客相关内容链接]]></title>
+      <url>http://yoursite.com/2016/09/19/Pythonpachon/</url>
       <content type="html"><![CDATA[<h4 id="Hexo官网"><a href="#Hexo官网" class="headerlink" title="Hexo官网:"></a>Hexo官网:</h4><p><a href="https://hexo.io/" target="_blank" rel="external">https://hexo.io/</a></p>
 <h4 id="Next主题"><a href="#Next主题" class="headerlink" title="Next主题:"></a>Next主题:</h4><p><a href="http://theme-next.iissnan.com/" target="_blank" rel="external">http://theme-next.iissnan.com/</a></p>
 ]]></content>
@@ -13,7 +21,7 @@
     
     <entry>
       <title><![CDATA[Python]]></title>
-      <url>http://yoursite.com/2016/09/08/Python/</url>
+      <url>http://yoursite.com/2016/09/19/Python/</url>
       <content type="html"><![CDATA[<p>Python是一种计算机程序设计语言。你可能已经听说过很多种流行的编程语言，比如非常难学的C语言，非常流行的Java语言，适合初学者的Basic语言，适合网页编程的JavaScript语言等等。</p>
 <p>那Python是一种什么语言？</p>
 <p>首先，我们普及一下编程语言的基础知识。用任何编程语言来开发程序，都是为了让计算机干活，比如下载一个MP3，编写一个文档等等，而计算机干活的CPU只认识机器指令，所以，尽管不同的编程语言差异极大，最后都得“翻译”成CPU可以执行的机器指令。而不同的编程语言，干同一个活，编写的代码量，差距也很大。</p>
